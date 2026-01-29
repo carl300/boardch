@@ -1,6 +1,6 @@
 #!/bin/bash
 # Set variables
-LOG_DIR=/trading/logs
+
 ARCHIVE_DIR=~/trading/archive
 DATE=$(date +%Y-%m-%d)
 
