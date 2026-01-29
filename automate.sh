@@ -1,8 +1,7 @@
 #!/bin/bash
 # Set variables
 
-ARCHIVE_DIR=~/trading/archive
-DATE=$(date +%Y-%m-%d)
+te +%Y-%m-%d)
 
 # Create archive folder if missing
 mkdir -p $ARCHIVE_DIR
